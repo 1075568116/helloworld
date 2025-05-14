@@ -1,4 +1,21 @@
 
+# 作业
+作业
+###   2205308020312   易谦镗
+
+### 任务分工：
+结合 BookList.vue、BookForm.vue、Header.vue，简要介绍每个组件的功能，并采集页面截图
+
+### 使用 AI 工具：
+使用 Deepseek 生成三个 Vue 组件的简要功能介绍。
+
+### 提问：
+简要介绍BookList.vue、BookForm.vue、Header.vue简要介绍每个组件的功能
+
+### 修改记录：
+Deepseek综合了三个vue的组件，不够简介易懂，存在多个小标题和太过于详细，将给出的结果内容简化缩写。
+=======
+
 ### 1. **配置说明部分**
 #### 修改内容：
 - 添加了环境变量文件的说明（`.env.development` 和 `.env.production`）。
@@ -69,5 +86,6 @@ React.js	React Router	<Link> 或 useNavigate	1. 新建组件 2. 添加 <Route>
 
 6. **灵活扩展**  
    你还可以根据实际需求，扩展表单校验、添加提示信息、与后端深度集成等功能，让添加书籍的流程更加完善和智能。
+
 
 
