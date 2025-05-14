@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- by 冯荣健  -->
 # Vue Book Listing
 
@@ -34,4 +35,5 @@ The application is structured around modular components and a simple routing sys
 - **JavaScript (ES6)**
 - **Single File Components (.vue)**
 - **Node.js & npm** (for project setup and dependency management)
+
 <!-- by 冯荣健 -->
